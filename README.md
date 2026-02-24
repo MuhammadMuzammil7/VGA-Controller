@@ -91,5 +91,5 @@ Detailed design description, simulations, and hardware validation results are av
 
 ## Author
 
-**Muhammad Muzammil Ahmed**
+**Muhammad Muzammil Ahmed**  
 Electronic Engineer
