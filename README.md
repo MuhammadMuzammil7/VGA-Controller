@@ -10,7 +10,7 @@ The design was simulated using QuestaSim and implemented on the DE1-SoC FPGA boa
 
 ---
 
-## Architecture
+## Architecture Design
 
 <img width="515" height="409" alt="VGA Architecture" src="https://github.com/user-attachments/assets/a3bee8b6-0287-4082-bc0f-3f9998d322a8" />
 
@@ -91,5 +91,4 @@ Detailed design description, simulations, and hardware validation results are av
 
 ## Author
 
-**Muhammad Muzammil Ahmed** 
-Electronic Engineer
+**Muhammad Muzammil Ahmed**Electronic Engineer
